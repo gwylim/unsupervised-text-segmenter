@@ -1,0 +1,11 @@
+{
+  "name": "unsupervised-word-segmentater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gwylim/unsupervised-word-segmentater.git",
+  "author": "Gwylim Ashley <gwylim.a@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reverse-string": "^0.0.6"
+  }
+}
